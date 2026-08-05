@@ -1,0 +1,44 @@
+======================================================================
+COMPETITIVE MEDIA MONITORING — INTELLIGENCE REPORT
+======================================================================
+
+Brands Tracked: 5
+Monitoring Period: 8 weeks
+Total Mentions Tracked: 3,502
+
+──────────────────────────────────────────────────
+SHARE OF VOICE RANKING (Week 8)
+──────────────────────────────────────────────────
+  Your Brand          :  37.9% (↑ 5.9%)
+  Competitor A        :  21.0% (↓ 4.7%)
+  Competitor B        :  18.5% (↓ 0.8%)
+  Competitor C        :  13.7% (↓ 0.7%)
+  Competitor D        :   8.9% (↑ 0.3%)
+
+  Your Brand SOV Change: +5.9 percentage points
+
+──────────────────────────────────────────────────
+SENTIMENT ANALYSIS — YOUR BRAND
+──────────────────────────────────────────────────
+  Week 1 Net Sentiment:  +27.5
+  Week 8 Net Sentiment:  +55.0
+  Improvement:           +27.5 points
+  Percentage Change:     +100.0%
+
+──────────────────────────────────────────────────
+COMPETITOR ALERTS
+──────────────────────────────────────────────────
+  ⚠ Competitor A lost 4.7% SOV
+
+──────────────────────────────────────────────────
+KEY INSIGHTS
+──────────────────────────────────────────────────
+  1. Your Brand leads competitive landscape at 37.9% SOV
+  2. Sentiment improved 100% over monitoring period
+  3. Social media drives highest mention volume but lowest sentiment stability
+  4. Trade publications show strongest positive sentiment correlation
+  5. Competitor B spike in Week 3 warrants monitoring for campaign response
+
+======================================================================
+END OF REPORT
+======================================================================
